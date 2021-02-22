@@ -9,7 +9,7 @@ In the **second module**, we will focus on life-long learning. How do we learn o
 In the **third module**, we highlight several solutions, focusing on meta-learning, modularity (including computational computation). These two solutions were shown to help deep network learn multiple objectives both in the sequential and stationary setting.
 
 
-<center><img width=400 src="https://www.dropbox.com/s/unl81onqf0kz02w/fig2.png?dl=1"></center>
+<center><img width=400 src="labs/lab1/fig/fig1.png"></center>
 
 
 ## Compute
