@@ -26,7 +26,7 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
     - Hands-on experience applying transfer learning models
  
-* Understand of the important reserch directions that will shape the future of deep learning
+* Understand key research directions that will shape the future of deep learning
 
     - Read and discuss papers
     
