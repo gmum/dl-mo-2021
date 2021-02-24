@@ -16,6 +16,8 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Main Spreadsheet](https://docs.google.com/spreadsheets/d/1tSO1ZlILxmD0LuMFZ3GLyJmtiJgMnJg0okkA43N_9AU/edit?usp=sharing)
 
+* [Lab 1](https://colab.research.google.com/drive/1y1Jh2JPjCgr6ccvmwk6iN6SaJWv143Qt?usp=sharing)
+
 ## Goal
 
 * Understand challenges that deep learning faces
