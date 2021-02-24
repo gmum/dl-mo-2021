@@ -16,11 +16,19 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Main Spreadsheet](https://docs.google.com/spreadsheets/d/1tSO1ZlILxmD0LuMFZ3GLyJmtiJgMnJg0okkA43N_9AU/edit?usp=sharing)
 
-## Goals
+## Goal
 
-* Excite you and inform you about where deep learning is going
+* Understand challenges that deep learning faces
 
-* Hands-on experience applying some of the most important state-of-the-art models 
+* Understand key classes of solutions to these challenges
+
+    - Hands-on experience applying transfer learning models
+ 
+* Understand of the important reserch directions that will shape the future of deep learning
+
+    - Read and discuss papers
+    
+    - Reproduce one paper as a project 
 
 ## Tentative Outline
 
@@ -44,32 +52,31 @@ Each lab is based on some key papers in the literature. The list of papers will 
    - Lab 5: (Challenge) Multi-task learning 
         * Mini-Project presentation
 
-### Module 2: Dynamic World
+### Module 2: Dynamic World and Project
 
    - Lab 6: (Challenge) Continual Learning 
    
    - Lab 7: Project ideas consultation
    
    - Lab 8: (Challenge) Exploration in Reinforcement Learning
+        * Project proposals are due
+   
+   - Lab 9: TBD (50% time) + Project consultation
 
 ### Module 3: Solutions and Project
  
-   - Lab 9: (Solution class) Meta-learning 
+   - Lab 10: (Solution class) Meta-learning 
         * Project proposals are due
-    
-   - Lab 10: TBD + Project consultation
-   
+
    - Lab 11: (Solution class) Conditional computation
    
    - Lab 12: First project update
    
-   - Lab 13: TBD + Project consultation
+   - Lab 13: TBD (50% time) + Project consultation
    
    - Lab 14: Second project update
 
-   - Lab 15: TBD + Project consultation
-
-   - Lab 16: Final Project presentation (poster session format)
+   - Lab 15: Final Project presentation (poster session format)
 
 ## Office Hours
 
@@ -107,7 +114,7 @@ I am available immediately after the lab for office hours.
 * The Project will be carried out in groups of 2 to 3 students
 
     * Preferred topic is reproducing a highly cited or accepted into a prestigious conference paper that addresses any of the challenges
-    discussed in this course
+    discussed in this course. See https://reproducibility-challenge.github.io/neurips2019.
     
     * Specific topics for the Project will be announced later, and feel free to suggest your own
     
