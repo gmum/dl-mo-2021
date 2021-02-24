@@ -22,33 +22,54 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * Hands-on experience applying some of the most important state-of-the-art models 
 
-## Outline
+## Tentative Outline
 
-Disclaimer: This is likely to change. We just want to give you a general overview of the course
+Disclaimer: This is likely to change. We just want to give you a general overview of the course.
+
+Each lab is based on some key papers in the literature. The list of papers will be updated.
 
 ### Module 1: Static World
    
    - Lab 1: Transfer Learning
+        * https://arxiv.org/abs/2010.11929
+        * https://arxiv.org/abs/2005.14165
    
-   - Lab 2: Transformers
+   - Lab 2: Implementing Transformer
+        * https://arxiv.org/abs/1706.03762
     
-   - Lab 3: Mini-Project (discussing ideas)
+   - Lab 3: Mini-Project (mini-project idea consultation)
    
    - Lab 4: Mini-Project (working in groups and consulting)
    
-   - Lab 5: Auxiliary loss
-   
+   - Lab 5: (Challenge) Multi-task learning 
         * Mini-Project presentation
 
 ### Module 2: Dynamic World
 
-    - Lab 6: Continual Learning is hard
+   - Lab 6: (Challenge) Continual Learning 
+   
+   - Lab 7: Project ideas consultation
+   
+   - Lab 8: (Challenge) Exploration in Reinforcement Learning
 
-### Module 3: Project
-
-    - Lab 7: Meta-learning as a class of solutions
+### Module 3: Solutions and Project
+ 
+   - Lab 9: (Solution class) Meta-learning 
+        * Project proposals are due
     
-    - Lab 8: Project ideas discussion
+   - Lab 10: TBD + Project consultation
+   
+   - Lab 11: (Solution class) Conditional computation
+   
+   - Lab 12: First project update
+   
+   - Lab 13: TBD + Project consultation
+   
+   - Lab 14: Second project update
+
+   - Lab 15: TBD + Project consultation
+
+   - Lab 16: Final Project presentation (poster session format)
 
 ## Office Hours
 
@@ -100,7 +121,7 @@ I am available immediately after the lab for office hours.
 - Attending lectures is optional
 
 
-## Grading
+## Lab Grading
 
 Your grade will be based on:
 
@@ -128,6 +149,18 @@ Your grade will calculates as follows:
 
 * 90-100%: 5
 
+## Final Grade
+
+Final grade will be based on:
+
+- Exam
+
+- Lab Grade
+
+- (Only PhD students) Lecture (PhD students will be required to prepare a lecture)
+
+We will announce details on exam later, but we can already say that an important component will be understanding papers
+discussed during the lab.
 
 ## Compute
 
