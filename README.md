@@ -12,6 +12,47 @@ In the **second module**, we will focus on life-long learning. How do we learn o
 
 In the **third module**, we highlight several solutions, most likely focusing on meta-learning, modularity (including computational computation). These two solutions were shown to help deep network learn multiple objectives both in the sequential and stationary setting.
 
+## Important links
+
+* [Main Spreadsheet](https://docs.google.com/spreadsheets/d/1tSO1ZlILxmD0LuMFZ3GLyJmtiJgMnJg0okkA43N_9AU/edit?usp=sharing)
+
+## Goals
+
+* Excite you and inform you about where deep learning is going
+
+* Hands-on experience applying some of the most important state-of-the-art models 
+
+## Outline
+
+Disclaimer: This is likely to change. We just want to give you a general overview of the course
+
+### Module 1: Static World
+   
+   - Lab 1: Transfer Learning
+   
+   - Lab 2: Transformers
+    
+   - Lab 3: Mini-Project (discussing ideas)
+   
+   - Lab 4: Mini-Project (working in groups and consulting)
+   
+   - Lab 5: Auxiliary loss
+   
+        * Mini-Project presentation
+
+### Module 2: Dynamic World
+
+    - Lab 6: Continual Learning is hard
+
+### Module 3: Project
+
+    - Lab 7: Meta-learning as a class of solutions
+    
+    - Lab 8: Project ideas discussion
+
+## Office Hours
+
+I am available immediately after the lab for office hours.
 
 ## Requirements
 
@@ -25,30 +66,31 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * We will try to use gather.town. Your feedback is essential: we can switch to teams if you prefer. Why gather.town:
 
-    - Easy pernament whiteboard
+    - Pernament whiteboard
     
     - Easy to see where I am during consultation
     
     - Easy to ask question privately
+    
 
 ## Project and Mini-Project
 
 * Your grade will largely depend on completing a Project and a Mini-Project 
 
 * The Mini-Project will focus on Transfer Learning
-
-    * Topics for the Mini-Project will be announced later
     
     * Preferred topic is using GPT-2, Vision Transformer, or CLIP in some context
     
-        - See [this list][https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/] for inspiration
+        - See [this list](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/) for inspiration
 
 * The Project will be carried out in groups of 2 to 3 students
 
-    * Topics for the Project will be announced later
-    
     * Preferred topic is reproducing a highly cited or accepted into a prestigious conference paper that addresses any of the challenges
     discussed in this course
+    
+    * Specific topics for the Project will be announced later, and feel free to suggest your own
+    
+    * Every two labs devoted to project you will be asked to show your progress and describe your next tasks.
 
 
 ## Attendance
@@ -69,6 +111,8 @@ Your grade will be based on:
 - (~20%) Miniproject 1: We will together work on a specific topic and explore few ideas around it that illustrate concepts in Stationary World
 
 - (~60%) Project
+    
+Specific gradient for Project and Mini-Project will be announced later.
 
 Your grade will calculates as follows:
 
