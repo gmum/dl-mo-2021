@@ -20,7 +20,7 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Gather.town](https://gather.town/app/9sNvlWalailmENXl/gmum-lab) - only for students enrolled for lab (not PhD students)
 
-    - PhD students: If you want to listen, please join via streaming: [meet](meet.google.com/miz-mqhy-odq)
+    - PhD students: If you want to listen, please send an email first, and we will arrange for it starting from the second week.
 
 ## Goal
 
