@@ -18,6 +18,10 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Lab 1](https://colab.research.google.com/drive/1y1Jh2JPjCgr6ccvmwk6iN6SaJWv143Qt?usp=sharing)
 
+* [Gather.town](https://gather.town/app/9sNvlWalailmENXl/gmum-lab) - only for students enrolled for lab (not PhD students)
+
+    - PhD students: If you want to listen, please join via streaming: [meet](meet.google.com/miz-mqhy-odq)
+
 ## Goal
 
 * Understand challenges that deep learning faces
