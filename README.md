@@ -20,10 +20,13 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Gather.town](https://gather.town/app/9sNvlWalailmENXl/gmum-lab) - only for students enrolled for lab (not PhD students)
 
-    - PhD students: If you want to listen, please send an email first, and we will arrange for it starting from the second week.
+    - PhD students: If you want to listen, please send an email first, and we will arrange for it starting from the second week
 
 * [Anonymous Feedback](https://forms.gle/bP7EymPrknE3MKaT7) 
     - this is fully anonymous (you can fill it up without being logged to Google account)
+
+* [Teams](https://teams.microsoft.com/l/team/19%3abf01b7b0720447889f7366a687ede10a%40thread.tacv2/conversations?groupId=de892755-0b5b-4c6b-91ff-0258d0222581&tenantId=eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb) 
+    - in case gather.town doesn't work
 
 ## Goal
 
