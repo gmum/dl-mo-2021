@@ -16,11 +16,9 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Main Spreadsheet](https://docs.google.com/spreadsheets/d/1tSO1ZlILxmD0LuMFZ3GLyJmtiJgMnJg0okkA43N_9AU/edit?usp=sharing)
 
-    - Will move to Teams file
-
 * [Lab 1](https://colab.research.google.com/drive/1y1Jh2JPjCgr6ccvmwk6iN6SaJWv143Qt?usp=sharing)
 
-* [Gather.town](https://gather.town/app/9sNvlWalailmENXl/gmum-lab) - only for students enrolled for lab (not PhD students)
+* [Gather.town](https://gather.town/app/9sNvlWalailmENXl/gmum-lab) - only for students enrolled for lab (not PhD students). 
 
     - PhD students: If you want to listen, please send an email first, and we will arrange for it starting from the second week
 
@@ -29,6 +27,8 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Teams](https://teams.microsoft.com/l/team/19%3a4cbff8c281134f2f8997612796e81415%40thread.tacv2/conversations?groupId=c1c10036-51ad-4303-9d2f-fe9c6b666bb7&tenantId=eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb) 
     - for lecture, and lab in case gather.town doesn't work
+
+Please do not enter your personal information when logging into Gather.town (or in the spreadsheet).
 
 ## Goal
 
