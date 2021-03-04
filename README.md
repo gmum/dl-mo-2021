@@ -71,7 +71,7 @@ Each lab is based on some key papers in the literature. The list of papers will 
    
    - Lab 7: (Challenge) Continual Learning  & Project ideas consultation
    
-   - Lab 8: (Challenge) Exploration in Reinforcement Learning
+   - Lab 8: (Challenge) Continual Learning cntd.
         * Project proposals are due
    
    - Lab 9: TBD (50% time) + Project consultation
