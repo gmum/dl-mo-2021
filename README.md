@@ -61,18 +61,17 @@ Each lab is based on some key papers in the literature. The list of papers will 
    - Lab 2: Implementing Transformer
         * https://arxiv.org/abs/1706.03762
     
-   - Lab 3: Mini-Project (mini-project idea consultation)
+   - Lab 3: Implementing Transformer & Mini-Project consultation
    
    - Lab 4: Mini-Project (working in groups and consulting)
    
    - Lab 5: (Challenge) Multi-task learning 
-        * Mini-Project presentation
 
 ### Module 2: Dynamic World and Project
 
-   - Lab 6: (Challenge) Continual Learning 
+   - Lab 6:  Mini-project presentations 
    
-   - Lab 7: Project ideas consultation
+   - Lab 7: (Challenge) Continual Learning  & Project ideas consultation
    
    - Lab 8: (Challenge) Exploration in Reinforcement Learning
         * Project proposals are due
