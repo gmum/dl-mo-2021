@@ -58,10 +58,10 @@ Each lab is based on some key papers in the literature. The list of papers will 
         * https://arxiv.org/abs/2010.11929
         * https://arxiv.org/abs/2005.14165
    
-   - Lab 2: Implementing Transformer
+   - Lab 2: Implementing Vision Transformer
         * https://arxiv.org/abs/1706.03762
     
-   - Lab 3: Implementing Transformer & Mini-Project consultation
+   - Lab 3: Implementing Vision Transformer & Mini-Project consultation
    
    - Lab 4: Mini-Project (working in groups and consulting)
    
