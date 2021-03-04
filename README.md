@@ -1,8 +1,8 @@
 # Deep Learning with Multiple Objectives
 
-<center><img width=400 src="labs/lab1/fig/fig2.png"></center>
-
 Welcome to the lab! In this course, we will delve into one area of limitations of the current incarnation of deep learning technologies, while being optimistic about what is already possible.
+
+<center><img width=400 src="labs/lab1/fig/fig2.png"></center>
 
 There will be three separate modules. In the **first module** of the course, we will focus on learning in a stationary setting where the neural network learns each objective at the same time.  to We will have multiple competing objectives. Investigating this, we will better understand how deep neural networks are trained, and what are some limitations.
 
