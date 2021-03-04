@@ -18,6 +18,20 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Lab 1](https://colab.research.google.com/drive/1y1Jh2JPjCgr6ccvmwk6iN6SaJWv143Qt?usp=sharing )
 
+* [Lab 2](https://colab.research.google.com/drive/1qq8_7ycu4_rb4GS-BYkfKJlRbA1JVkUH?usp=sharing)
+
+* [Gather.town](https://gather.town/app/9sNvlWalailmENXl/gmum-lab) - only for students enrolled for lab (not PhD students). 
+
+    - PhD students: If you want to listen, please send an email first, and we will arrange for it starting from the second week
+
+* [Anonymous Feedback](https://forms.gle/bP7EymPrknE3MKaT7) 
+    - this is fully anonymous (you can fill it up without being logged to Google account)
+
+* [Teams](https://teams.microsoft.com/l/team/19%3a4cbff8c281134f2f8997612796e81415%40thread.tacv2/conversations?groupId=c1c10036-51ad-4303-9d2f-fe9c6b666bb7&tenantId=eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb) 
+    - for lecture, and lab in case gather.town doesn't work
+
+Please do not enter your personal information when logging into Gather.town (or in the spreadsheet).
+
 ## Goal
 
 * Understand challenges that deep learning faces
@@ -26,7 +40,7 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
     - Hands-on experience applying transfer learning models
  
-* Understand of the important reserch directions that will shape the future of deep learning
+* Understand key research directions that will shape the future of deep learning
 
     - Read and discuss papers
     
