@@ -28,6 +28,8 @@ In the **third module**, we highlight several solutions, most likely focusing on
 * [Teams](https://teams.microsoft.com/l/team/19%3a4cbff8c281134f2f8997612796e81415%40thread.tacv2/conversations?groupId=c1c10036-51ad-4303-9d2f-fe9c6b666bb7&tenantId=eb0e26eb-bfbe-47d2-9e90-ebd2426dbceb) 
     - for lecture, and lab in case gather.town doesn't work
 
+* [Whiteboard](https://cocreate-005.gather.town/r/tRrxB4rpgurrpc62y)
+
 Please do not enter your personal information when logging into Gather.town (or in the spreadsheet).
 
 ## Goal
