@@ -18,10 +18,6 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Lab 2](https://colab.research.google.com/drive/1qq8_7ycu4_rb4GS-BYkfKJlRbA1JVkUH?usp=sharing)
 
-* [Gather.town](https://gather.town/app/9sNvlWalailmENXl/gmum-lab) - only for students enrolled for lab (not PhD students). 
-
-    - PhD students: If you want to listen, please send an email first, and we will arrange for it starting from the second week
-
 * [Anonymous Feedback](https://forms.gle/bP7EymPrknE3MKaT7) 
     - this is fully anonymous (you can fill it up without being logged to Google account)
 
