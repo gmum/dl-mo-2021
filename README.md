@@ -28,6 +28,8 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Whiteboard](https://cocreate-005.gather.town/r/tRrxB4rpgurrpc62y)
 
+* [MiniProjects](https://docs.google.com/document/d/1vuCS-liGXCx7I0oSX4liyTFEUEYZtQszMgaTbg-aJWU/edit?usp=sharing)
+
 Please do not enter your personal information when logging into Gather.town (or in the spreadsheet).
 
 ## Goal
