@@ -14,11 +14,13 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Main Spreadsheet](https://docs.google.com/spreadsheets/d/1tSO1ZlILxmD0LuMFZ3GLyJmtiJgMnJg0okkA43N_9AU/edit?usp=sharing)
 
-* [Lab 1](https://colab.research.google.com/drive/1y1Jh2JPjCgr6ccvmwk6iN6SaJWv143Qt?usp=sharing )
+* [Lab 1: 01-transfer](https://colab.research.google.com/drive/1y1Jh2JPjCgr6ccvmwk6iN6SaJWv143Qt?usp=sharing )
 
-* [Lab 2](https://colab.research.google.com/drive/1qq8_7ycu4_rb4GS-BYkfKJlRbA1JVkUH?usp=sharing)
+* [Lab 2: 02a-transformers](https://colab.research.google.com/drive/1qq8_7ycu4_rb4GS-BYkfKJlRbA1JVkUH?usp=sharing)
 
-* [Lab 3](https://colab.research.google.com/drive/1pvXFV8o-G5Dr4Uwr5xVZSwB-Q7NJGlw6?usp=sharing)
+* [Lab 3: 02b-transformers](https://colab.research.google.com/drive/1pvXFV8o-G5Dr4Uwr5xVZSwB-Q7NJGlw6?usp=sharing)
+
+* [Lab 4: 02c-transformers](https://colab.research.google.com/drive/1_RLws7wisxkCDv0Q4mfKVsLQKBFl-j6K?usp=sharing)
 
 * [Anonymous Feedback](https://forms.gle/bP7EymPrknE3MKaT7) 
     - this is fully anonymous (you can fill it up without being logged to Google account)
