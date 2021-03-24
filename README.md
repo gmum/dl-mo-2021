@@ -159,6 +159,8 @@ Your grade will be based on:
     
 Specific gradient for Project and Mini-Project will be announced later.
 
+Each week past the deadline for a given homework results in a 25% penalty point penalty.
+
 Your grade will calculates as follows:
 
 * 0-49%: 2
