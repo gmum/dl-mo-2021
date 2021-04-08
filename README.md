@@ -24,6 +24,8 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Lab 5: 03-miniproject-consultation](https://colab.research.google.com/drive/1kuFPkfMlMz9LqVskNoIJW3q1Y9n8Vrnu?usp=sharing)
 
+* [Lab 6: 04-shortcut-learning](https://colab.research.google.com/drive/1rnvNexj9HAyBUwrbX6K5mEgn4dSWHqhr?usp=sharing)
+
 * [Anonymous Feedback](https://forms.gle/bP7EymPrknE3MKaT7) 
     - this is fully anonymous (you can fill it up without being logged to Google account)
 
