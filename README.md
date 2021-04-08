@@ -52,53 +52,6 @@ Please do not enter your personal information when logging into Gather.town (or 
     
     - Reproduce one paper as a project 
 
-## Tentative Outline
-
-Disclaimer: This is likely to change. We just want to give you a general overview of the course.
-
-Each lab is based on some key papers in the literature. The list of papers will be updated.
-
-### Module 1: Static World
-   
-   - Lab 1: Transfer Learning
-        * https://arxiv.org/abs/2010.11929
-        * https://arxiv.org/abs/2005.14165
-   
-   - Lab 2: Implementing Vision Transformer
-        * https://arxiv.org/abs/1706.03762
-    
-   - Lab 3: Implementing Vision Transformer & Mini-Project consultation
-   
-   - Lab 4: Mini-Project (working in groups and consulting)
-   
-   - Lab 5: (Challenge) Multi-task learning 
-
-### Module 2: Dynamic World and Project
-
-   - Lab 6:  Mini-project presentations 
-   
-   - Lab 7: (Challenge) Continual Learning  & Project ideas consultation
-   
-   - Lab 8: (Challenge) Continual Learning cntd.
-        * Project proposals are due
-   
-   - Lab 9: TBD (50% time) + Project consultation
-
-### Module 3: Solutions and Project
- 
-   - Lab 10: (Solution class) Meta-learning 
-        * Project proposals are due
-
-   - Lab 11: (Solution class) Conditional computation
-   
-   - Lab 12: First project update
-   
-   - Lab 13: TBD (50% time) + Project consultation
-   
-   - Lab 14: Second project update
-
-   - Lab 15: Final Project presentation (poster session format)
-
 ## Office Hours
 
 I am available immediately after the lab for office hours.
