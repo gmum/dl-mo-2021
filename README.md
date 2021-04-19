@@ -36,6 +36,8 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [MiniProjects](https://docs.google.com/document/d/1vuCS-liGXCx7I0oSX4liyTFEUEYZtQszMgaTbg-aJWU/edit?usp=sharing)
 
+* [FinalProject](https://docs.google.com/document/d/1Nql78Gwn-sYrZDVNWjzE6yonjBjDoPx9cjCM8qSv3uA/edit?usp=sharing)
+
 Please do not enter your personal information when logging into Gather.town (or in the spreadsheet).
 
 ## Goal
@@ -106,13 +108,13 @@ I am available immediately after the lab for office hours.
 
 Your grade will be based on:
 
-- (~20%) Completing a few small exercises (3-4) including reading papers. 
+- (25%) Completing a few small exercises (3-4) including reading papers. 
 
     Exercises have to be submitted by Thursday midnight via email.
 
-- (~20%) Miniproject 1: We will together work on a specific topic and explore few ideas around it that illustrate concepts in Stationary World
+- (25%) Miniproject 1: We will together work on a specific topic and explore few ideas around it that illustrate concepts in Stationary World
 
-- (~60%) Project
+- (50%) Project
     
 Specific gradient for Project and Mini-Project will be announced later.
 
