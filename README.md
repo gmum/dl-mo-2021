@@ -24,7 +24,7 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * [Lab 5: 03-miniproject-consultation](https://colab.research.google.com/drive/1kuFPkfMlMz9LqVskNoIJW3q1Y9n8Vrnu?usp=sharing)
 
-* [Lab 6: 04-shortcut-learning](https://colab.research.google.com/drive/1rnvNexj9HAyBUwrbX6K5mEgn4dSWHqhr?usp=sharing)
+* [Lab 6: 04a-shortcut-learning](https://colab.research.google.com/drive/1rnvNexj9HAyBUwrbX6K5mEgn4dSWHqhr?usp=sharing)
 
 * (16.04) Lab 7: Mini-Project Presentation 
 
