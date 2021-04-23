@@ -30,7 +30,7 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
     - No graded homework, only very rough Final Project ideas.
 
-* (23.04) [Lab 8: 04b-shortcut-learning]()
+* (23.04) [Lab 8: 04b-shortcut-learning](https://colab.research.google.com/drive/1Cll5gmmHv2oDXzNMgEHcyq2tla5SjQU4?usp=sharing)
 
 * [Anonymous Feedback](https://forms.gle/bP7EymPrknE3MKaT7) 
     - this is fully anonymous (you can fill it up without being logged to Google account)
