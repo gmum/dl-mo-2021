@@ -10,27 +10,31 @@ In the **second module**, we will focus on life-long learning. How do we learn o
 
 In the **third module**, we highlight several solutions, most likely focusing on meta-learning, modularity (including computational computation). These two solutions were shown to help deep network learn multiple objectives both in the sequential and stationary setting.
 
+## Labs
+
+* (26.02) [Lab 1: 01-transfer](https://colab.research.google.com/drive/1y1Jh2JPjCgr6ccvmwk6iN6SaJWv143Qt?usp=sharing )
+
+* (05.03) [Lab 2: 02a-transformers](https://colab.research.google.com/drive/1qq8_7ycu4_rb4GS-BYkfKJlRbA1JVkUH?usp=sharing)
+
+* (12.03) [Lab 3: 02b-transformers](https://colab.research.google.com/drive/1pvXFV8o-G5Dr4Uwr5xVZSwB-Q7NJGlw6?usp=sharing)
+
+* (19.03) [Lab 4: 02c-transformers](https://colab.research.google.com/drive/1_RLws7wisxkCDv0Q4mfKVsLQKBFl-j6K?usp=sharing)
+
+* (26.03) [Lab 5: 03-miniproject-consultation](https://colab.research.google.com/drive/1kuFPkfMlMz9LqVskNoIJW3q1Y9n8Vrnu?usp=sharing)
+
+* (9.04) [Lab 6: 04a-shortcut-learning](https://colab.research.google.com/drive/1rnvNexj9HAyBUwrbX6K5mEgn4dSWHqhr?usp=sharing)
+
+* (16.04) Lab 7: Mini-Project presentation
+
+* (23.04) [Lab 8: 04b-shortcut-learning](https://colab.research.google.com/drive/1Cll5gmmHv2oDXzNMgEHcyq2tla5SjQU4?usp=sharing)
+
+* (30.04) Project consultation
+
+* (7.05) [Lab 9: 05a-continual-learning](https://colab.research.google.com/drive/1Iwh6LPd1Srboibj_QqSOVvTq1ALMdbB2?usp=sharing)
+
 ## Important links
 
 * [Main Spreadsheet](https://docs.google.com/spreadsheets/d/1tSO1ZlILxmD0LuMFZ3GLyJmtiJgMnJg0okkA43N_9AU/edit?usp=sharing)
-
-* [Lab 1: 01-transfer](https://colab.research.google.com/drive/1y1Jh2JPjCgr6ccvmwk6iN6SaJWv143Qt?usp=sharing )
-
-* [Lab 2: 02a-transformers](https://colab.research.google.com/drive/1qq8_7ycu4_rb4GS-BYkfKJlRbA1JVkUH?usp=sharing)
-
-* [Lab 3: 02b-transformers](https://colab.research.google.com/drive/1pvXFV8o-G5Dr4Uwr5xVZSwB-Q7NJGlw6?usp=sharing)
-
-* [Lab 4: 02c-transformers](https://colab.research.google.com/drive/1_RLws7wisxkCDv0Q4mfKVsLQKBFl-j6K?usp=sharing)
-
-* [Lab 5: 03-miniproject-consultation](https://colab.research.google.com/drive/1kuFPkfMlMz9LqVskNoIJW3q1Y9n8Vrnu?usp=sharing)
-
-* [Lab 6: 04a-shortcut-learning](https://colab.research.google.com/drive/1rnvNexj9HAyBUwrbX6K5mEgn4dSWHqhr?usp=sharing)
-
-* (16.04) Lab 7: Mini-Project Presentation 
-
-    - No graded homework, only very rough Final Project ideas.
-
-* (23.04) [Lab 8: 04b-shortcut-learning](https://colab.research.google.com/drive/1Cll5gmmHv2oDXzNMgEHcyq2tla5SjQU4?usp=sharing)
 
 * [Anonymous Feedback](https://forms.gle/bP7EymPrknE3MKaT7) 
     - this is fully anonymous (you can fill it up without being logged to Google account)
