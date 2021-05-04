@@ -16,15 +16,19 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * (05.03) [Lab 2: 02a-transformers](https://colab.research.google.com/drive/1qq8_7ycu4_rb4GS-BYkfKJlRbA1JVkUH?usp=sharing)
 
-    - Deadline for 01-transfer homework (2p, reading assignment)
+    - Deadline for Lab 1 homework (2p, reading assignment).
 
 * (12.03) [Lab 3: 02b-transformers](https://colab.research.google.com/drive/1pvXFV8o-G5Dr4Uwr5xVZSwB-Q7NJGlw6?usp=sharing)
 
-    - Deadline for 02a-transformers homework (
+    - Deadline for Lab 2 homework (2p, reading assignment and mini-project ideas).
 
 * (19.03) [Lab 4: 02c-transformers](https://colab.research.google.com/drive/1_RLws7wisxkCDv0Q4mfKVsLQKBFl-j6K?usp=sharing)
 
+    - Deadline for Lab 3 homework (3p, 02a-transformers notebook and mini-project description).
+
 * (26.03) [Lab 5: 03-miniproject-consultation](https://colab.research.google.com/drive/1kuFPkfMlMz9LqVskNoIJW3q1Y9n8Vrnu?usp=sharing)
+
+    - Deadline for Lab 4 homework (1p, 02c-transformers notebook).
 
 * (9.04) [Lab 6: 04a-shortcut-learning](https://colab.research.google.com/drive/1rnvNexj9HAyBUwrbX6K5mEgn4dSWHqhr?usp=sharing)
 
