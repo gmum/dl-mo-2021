@@ -16,7 +16,11 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * (05.03) [Lab 2: 02a-transformers](https://colab.research.google.com/drive/1qq8_7ycu4_rb4GS-BYkfKJlRbA1JVkUH?usp=sharing)
 
+    - Deadline for 01-transfer homework (2p, reading assignment)
+
 * (12.03) [Lab 3: 02b-transformers](https://colab.research.google.com/drive/1pvXFV8o-G5Dr4Uwr5xVZSwB-Q7NJGlw6?usp=sharing)
+
+    - Deadline for 02a-transformers homework (
 
 * (19.03) [Lab 4: 02c-transformers](https://colab.research.google.com/drive/1_RLws7wisxkCDv0Q4mfKVsLQKBFl-j6K?usp=sharing)
 
@@ -31,6 +35,18 @@ In the **third module**, we highlight several solutions, most likely focusing on
 * (30.04) Project consultation
 
 * (7.05) [Lab 9: 05a-continual-learning](https://colab.research.google.com/drive/1Iwh6LPd1Srboibj_QqSOVvTq1ALMdbB2?usp=sharing)
+
+* (14.05) Lab 10: 05b-continual-learning
+
+* (21.05) Lab 11: Project midterm presentation
+
+* (28.05) Lab 12: 05c-continual-learning
+
+* (04.06) Lab 13: Final Project consultation and working in groups
+
+* (11.06, extended) Lab 14: Final Project presentations
+
+    - Note: Format will be announced later.
 
 ## Important links
 
