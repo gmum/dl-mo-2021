@@ -44,6 +44,8 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * (21.05) Lab 11: Project midterm presentation
 
+    - Deadline for Lab 9 notebook.
+
 * (28.05) Lab 12: 05c-continual-learning
 
 * (04.06) Lab 13: Final Project consultation and working in groups
