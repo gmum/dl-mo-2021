@@ -46,7 +46,7 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
     - Deadline for Lab 9 notebook.
 
-* (28.05) Lab 12: [Lab 10: 05b-continual-learning](https://colab.research.google.com/drive/1WiDb9vZmAUGxDCDeKyvT9-dk_WBpzwY1?usp=sharing)
+* (28.05) Lab 12: [05b-continual-learning](https://colab.research.google.com/drive/1WiDb9vZmAUGxDCDeKyvT9-dk_WBpzwY1?usp=sharing)
 
 * (04.06) Lab 13: Final Project consultation and working in groups
 
