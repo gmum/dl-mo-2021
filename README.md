@@ -40,15 +40,13 @@ In the **third module**, we highlight several solutions, most likely focusing on
 
 * (7.05) [Lab 9: 05a-continual-learning](https://colab.research.google.com/drive/1Iwh6LPd1Srboibj_QqSOVvTq1ALMdbB2?usp=sharing)
 
-* (14.05) Lab 10: 05b-continual-learning
+* (14.05) Lab 10: Finishing 05a-continual-learning and project consultation
 
 * (21.05) Lab 11: Project midterm presentation
 
     - Deadline for Lab 9 notebook.
 
-    - Same format but max 10 min
-
-* (28.05) Lab 12: 05c-continual-learning
+* (28.05) Lab 12: [Lab 10: 05b-continual-learning](https://colab.research.google.com/drive/1WiDb9vZmAUGxDCDeKyvT9-dk_WBpzwY1?usp=sharing)
 
 * (04.06) Lab 13: Final Project consultation and working in groups
 
